@@ -107,7 +107,7 @@ body{
     height: 7.5px;
     border-radius: 50%;
     background: #333;
-    box-shadow: 0 0 0 2px red, 50px 50px red,40px 0 red, 0 40px red;
+    box-shadow: 0 0 0 2px cyan, 50px 50px cyan,60px 0 cyan, 0 60px cyan;
     transform: rotate(45deg);
     animation: animate 1s ease-in-out infinite;
 }
